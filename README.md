@@ -1,23 +1,15 @@
-# dex 
+# mdir 
 
 [![npm version](https://badge.fury.io/js/%40w6s%2Fdex.svg)](https://badge.fury.io/js/%40w6s%2Fdex)
 
-🆒 Diff different commits of git and export incremental packages!
+🆒 Merge folders with roughly the same file tree
 
-## Install
-
-```bash
-yarn global add @w6s/dex
-# or
-npm install -g @w6s/dex
-```
 
 ## Usage
 
 ```bash
-Usage: dex [options] <new-version> [old-version] [zip-name]
+Usage: mdir [new-dir]
 
-Diff different commits of git and export incremental packages
 
 Options:
   -v, --version  output the version number
